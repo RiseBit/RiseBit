@@ -1,6 +1,9 @@
-# Haloooo, I'm RiseBit! 🚀
+E.L.O, omg im so cool hi guys im RiseBit.
 
-Hey! I’m a guy who started scripting in **April 2025**, obsessed with building **NPCs**, **AI**, and **BLOCKCHAIN** that feel *cool*. I’m always learning, and making stuff that intresting. 💾
+Currently learning about Smart Contracts.
+
+Skill :
+Full-Stack Roblox Developer
 
 ## Contact
 - Discord : risebit, with star PFP
