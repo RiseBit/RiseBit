@@ -1,6 +1,4 @@
-E.L.O, omg im so cool hi guys im RiseBit.
-
-Currently learning about Smart Contracts.
+currently in my programming journey.
 
 Skill :
 Full-Stack Roblox Developer
